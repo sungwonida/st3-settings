@@ -8,4 +8,5 @@
 	{ "keys": ["ctrl+tab"], "command": "next_view" },
 	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
 	{ "keys": ["ctrl+/"], "command": "undo" },
+	{ "keys": ["ctrl+shift+o"], "command": "prompt_open_file" },
 ]
