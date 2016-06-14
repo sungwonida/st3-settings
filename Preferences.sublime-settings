@@ -3,6 +3,7 @@
 	"font_size": 10,
 	"ignored_packages":
 	[
+		"Vintage"
 	],
 	"theme": "Material-Theme-Lighter.sublime-theme",
 	"vintage_start_in_command_mode": true
