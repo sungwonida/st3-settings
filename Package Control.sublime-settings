@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Agila Theme",
+		"Alignment",
+		"All Autocomplete",
+		"ColorPicker",
+		"Colorsublime",
+		"DocBlockr",
+		"Emmet",
+		"Fold Python",
+		"Git Conflict Resolver",
+		"GitGutter-Edge",
+		"Markdown Preview",
+		"Material Theme",
+		"orgmode",
+		"Package Control",
+		"Python PEP8 Autoformat",
+		"SublimeAStyleFormatter",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Sublimerge Pro",
+		"Terminal"
+	]
+}
