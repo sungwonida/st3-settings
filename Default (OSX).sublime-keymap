@@ -16,5 +16,7 @@
 	{ "keys": ["alt+n"], "command": "repl_view_next" },
 	{ "keys": ["ctrl+c", ","], "command": "jump_back" },
 	{ "keys": ["ctrl+c", "ctrl+,"], "command": "jump_back" },
+	{ "keys": ["ctrl+c", "."], "command": "jump_forward" },
+	{ "keys": ["ctrl+c", "ctrl+."], "command": "jump_forward" },
 	{ "keys": ["ctrl+x", "b"], "command": "next_view_in_stack" },
 ]
