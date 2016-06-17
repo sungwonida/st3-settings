@@ -20,7 +20,7 @@
 	"translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true,
     "ensure_newline_at_eof_on_save": true,
-//    "draw_white_space": "all",
+    "draw_white_space": "all",
 //    "fold_buttons": false,
     "highlight_line": true,
     "auto_complete": false,
@@ -33,9 +33,9 @@
     "find_selected_text": true,
 
     // Word wrapping - follow PEP 8 recommendations
-    "rulers": [ 72, 79 ],
-    "word_wrap": true,
-    "wrap_width": 80,
+//    "rulers": [ 72, 79 ],
+//    "word_wrap": true,
+//    "wrap_width": 80,
 
 	// Exclusion
 	"ignored_packages":

@@ -19,4 +19,5 @@
 	{ "keys": ["ctrl+c", "."], "command": "jump_forward" },
 	{ "keys": ["ctrl+c", "ctrl+."], "command": "jump_forward" },
 	{ "keys": ["ctrl+x", "b"], "command": "next_view_in_stack" },
+	{ "keys": ["alt+i"], "command": "insert", "args": { "characters": "    "} },
 ]
